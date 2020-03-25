@@ -32,5 +32,5 @@ sed -n '/github\|Author\|Maintainer/p'; done
 For more information see the links below
 - <https://en.terminalroot.com.br/>
 - <https://terminalroot.com.br/>
-- <https://youtube.com/>
+- <https://youtube.com/TerminalRootTV>
 - <https://vimcolors.com>
