@@ -1,7 +1,7 @@
 # vim-themes
 The themes for Vim that I think are the coolest!
 
-![vim-themes](.vim-themes.jpg)
+![vim-themes](vim-themes.jpg)
 
 # Instalation
 ```sh
